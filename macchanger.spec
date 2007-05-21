@@ -11,7 +11,7 @@ Group:		System/Configuration/Networking
 Version:        %{version}
 Release:        %{release}
 License:	GPL 
-URL: 		http://www.alobbs.com/modules.php?op=modload&name=macc&file=index
+URL:		http://www.alobbs.com/macchanger/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source:         %{name}-%{version}.tar.bz2
 
