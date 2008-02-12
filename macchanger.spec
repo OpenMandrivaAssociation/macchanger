@@ -13,6 +13,8 @@ Release:        %{release}
 License:	GPL 
 URL:		http://www.alobbs.com/macchanger/
 Source:         %{name}-%{version}.tar.bz2
+BuildRoot:      %{_tmppath}/%{name}-buildroot
+
 
 %description
 A GNU/Linux utility for viewing/manipulating the MAC address of network 
