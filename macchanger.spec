@@ -12,7 +12,6 @@ Version:        %{version}
 Release:        %{release}
 License:	GPL 
 URL:		http://www.alobbs.com/macchanger/
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source:         %{name}-%{version}.tar.bz2
 
 %description
