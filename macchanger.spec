@@ -1,6 +1,6 @@
 %define	name	macchanger 
 %define	version	1.5.0
-%define release	%mkrel 5
+%define release	%mkrel 6
 %define	lib_name_orig	lib%{name}
 %define	lib_major	0
 %define	lib_name	%mklibname %{name} %{lib_major}
