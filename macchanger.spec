@@ -44,8 +44,6 @@ Possible usages
 rm -rf $RPM_BUILD_ROOT
 %makeinstall
 
-%post
-%_install_info %{name}.info
 
 %postun
 %_remove_install_info %{name}.info
