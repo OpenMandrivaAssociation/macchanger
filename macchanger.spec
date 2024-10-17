@@ -8,7 +8,7 @@ Group:		System/Configuration/Networking
 Version:        1.7.0
 Release:        1
 License:	GPL 
-URL:		http://www.alobbs.com/macchanger/
+URL:		https://www.alobbs.com/macchanger/
 Source:         %{name}-%{version}.tar.gz
 
 
