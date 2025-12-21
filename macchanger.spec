@@ -12,6 +12,11 @@ URL:		https://www.alobbs.com/macchanger/
 Source:         %{name}-%{version}.tar.gz
 
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 A GNU/Linux utility for viewing/manipulating the MAC address of network 
 interfaces.
